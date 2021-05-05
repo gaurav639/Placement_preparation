@@ -1,7 +1,7 @@
 /*
 QUESTION :
 
-Now, we'll try to solve a famous stack problem.
+we'll try to solve a famous stack problem.
 You are given an array A of size N. You need to first push the elements of the array into a stack and then print minimum in the stack at each pop.
 
 Example 1:
